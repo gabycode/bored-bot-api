@@ -50,9 +50,9 @@ button:focus {
     transform: scale(1.01);
 }
 
-@media (max-width: 220px) {
+@media (max-width: 350px) {
     .container {        
-        height: 40vh;
+        height: 70vh;
     }
     .text {
         width: 25em;
