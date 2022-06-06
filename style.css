@@ -52,7 +52,7 @@ button:focus {
 
 @media (max-width: 220px) {
     .container {        
-        height: 70vh;
+        height: 40vh;
     }
     .text {
         width: 25em;
